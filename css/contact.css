@@ -1,0 +1,78 @@
+.contact-us {
+    height: auto;
+    width: 100%;
+    background-color: #ccc;
+    padding: 20px 24px;
+    margin: 13px 0px 10px 10px;
+    border-radius: 10px;
+}
+.contact-us h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: #ff0000;
+    border-bottom: 2px solid #000;
+    font-size: 25px;
+    margin-bottom: 17px;
+}
+.form-group{
+  margin: 10px;;
+}
+
+.control-form {
+    height: 30px;
+    width: 100%;
+    text-transform: capitalize;
+    margin: 6px 0px;
+    border: 1px solid red;
+}
+.textarea {
+    height: 100px;
+    width: 96%;
+    padding: 0px 0px;
+    margin: 6px 11px;
+        border: 1px solid red;}
+.btn.btn-submit {
+       font-size: 15px;
+    background-color: red;
+    height: 30px;
+    width: 36%;
+    color: #fff;
+    margin: 0px 119px;
+    border: none;
+    cursor: pointer;
+    padding: 0px 0px;
+}
+.btn.btn-submit:hover{
+    background-color: chartreuse;
+    color: darkcyan;
+}
+.yoga-image {
+    background-color: #ddbc9038;
+     margin: 13px 0px 10px 10px;
+    border-radius: 10px;
+}
+.yoga-image img {
+    max-height: 575px;
+    max-width: 635px;
+}
+.footer-left {
+    padding-left: 85px;
+}
+.heading-left h3 {
+    font-size: 17px;
+    margin: 50px 0 19px 0;
+}
+.contant {
+    padding: 0;
+}
+.contant li {
+    display: block;
+    text-transform: capitalize;
+}
+.footer-image {
+    margin: 47px 13px;
+}
+.heading-image img {
+    height: 142px;
+    width: 340PX;
+}
